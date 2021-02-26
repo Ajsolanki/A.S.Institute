@@ -1,4 +1,4 @@
-# A.S.Institute
+# A.S.Institute Management Software 
 Software to use In-house management in a institute. 
 
 Software created in VB.net, MySql database in backent to store data and keep records. 
